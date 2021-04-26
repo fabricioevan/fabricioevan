@@ -1,3 +1,9 @@
 - 👋 Olá, sou @fabricioevan
-- 👀 Estou em busca de uma oportunidade como desenvolvedor jr.
-- 🌱 Atualmente estou aprendendo Java, Spring boot e banco de dados relacional.
+- 👀 Estou em busca de uma oportunidade como Analista de Sistemas Jr.
+- Possuo conhecimento nas seguintes tecnologias:
+- Java
+- JavaScript
+- CSS
+- BootStrap 
+- PHP
+- MySql
