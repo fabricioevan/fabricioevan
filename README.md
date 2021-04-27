@@ -4,6 +4,6 @@
 - Java
 - JavaScript
 - CSS
-- BootStrap 
+- Bootstrap 
 - PHP
 - MySql
