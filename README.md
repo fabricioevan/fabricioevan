@@ -2,8 +2,11 @@
 - 👀 Estou em busca de uma oportunidade como Analista de Sistemas Jr.
 - Possuo conhecimento nas seguintes tecnologias:
 - Java
-- JavaScript
-- CSS
-- Bootstrap 
 - PHP
+- Python
+- JavaScript
+- AngularJs
+- Bootstrap 
+- Htlm
+- CSS
 - MySql
