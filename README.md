@@ -1,10 +1,7 @@
 - 👋 Olá, me chamo Fabrício @fabricioevan
-- 👀 Estou em busca de uma oportunidade como Analista de Sistemas Jr.
+- Atuo como Analista Desenvolvedor Jr.
 - Possuo conhecimento nas seguintes tecnologias:
 - Java
-- PHP
-- Python
-- JavaScript
 - AngularJs
 - Bootstrap 
 - Htlm
